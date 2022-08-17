@@ -1,1 +1,2 @@
-# remove_image_background_python
+# remove_background
+
